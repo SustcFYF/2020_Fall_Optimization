@@ -4,7 +4,6 @@ function [ output_args ] = paint( cities, pop, minPath, totalDistances,gen)
     xDots = cities(1,:);
     yDots = cities(2,:);
     %figure(1);
-    title('遗传算法求最短路径 11812010 付云帆');
     plot(xDots,yDots, 'ob');
     xlabel('x');
     ylabel('y');
