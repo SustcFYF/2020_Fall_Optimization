@@ -1,2 +1,2 @@
 # 2020_Fall_Optimization
-code and algorithm for the course ME426
+code and algorithm of the course ME426
